@@ -30,6 +30,9 @@
   var_dump($name);
   echo "<br />";
 
+  print_r($name);
+  echo "<br />";
+
   ?>
 </body>
 </html>
