@@ -30,6 +30,10 @@ $prompt = "Read file:";
 
 echo "There are $total_lines lines in $filename.";
 
+/** I'm not even making a change right now
+I'm just being completely ridiculous.
+It's fine.
+**/
 
 /**function tail($filename, $number_of_line) {
 
